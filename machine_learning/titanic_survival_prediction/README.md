@@ -1,4 +1,4 @@
-# Titanic Survival Prediction (Mini-Project)
+# Titanic Survival Prediction
 
 This mini-project builds and evaluates two classification models to predict passenger survival on the Titanic, using a light, real-world data science workflow.
 
